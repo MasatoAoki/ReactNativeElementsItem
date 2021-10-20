@@ -1,2 +1,4 @@
 学習内容のtxtbookです、
 
+yarn add react-native-elements
+をターミナルで実行しインストールを行う。
