@@ -13,9 +13,9 @@ const Elements02 = (props) => {
                 onPress={() => Alert.alert("戻るがタップされました")}
             />
             <Button
-                title="青木"
+                title= {props.aoki}
                 type="outline"
-                onPress = {props.onPress}
+                onPress = {props.onPresstest}
             />
             <Text>
                 {props.aoki}

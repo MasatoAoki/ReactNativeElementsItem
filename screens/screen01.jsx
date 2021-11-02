@@ -10,8 +10,8 @@ const Screen01 =() => {
     return(
         <SafeAreaView style={styles.Icon01}>
             <Elements02
-            aoki="まさと"
-            onPress={() => Alert.alert("青木将人")}
+            aoki="あおきまさと"
+            onPresstest={() => Alert.alert("青木将人")}
             />
 
         </SafeAreaView>
