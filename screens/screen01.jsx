@@ -1,7 +1,7 @@
 import _default from 'atob';
 import React from 'react';
 import { StyleSheet, Text, View,SafeAreaView,Alert } from 'react-native';
-import { Button,Header,Switch, } from 'react-native-elements';
+import { Button,Switch, } from 'react-native-elements';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 import Elements02 from '../components/Elements02';
